@@ -4,7 +4,7 @@
 
 # install
 - Run ```#Update.cmd ``` to install bot requirment
-- Run ```#Start.cmd``` to run bot work
+- Run ```#Start.cmd``` to make bot work
 - Boom! That Your Music bot
 
 # credit
